@@ -55,3 +55,6 @@ The extractColors.py file contains the primary logic for color extraction, which
 ### Screenshot
 
 ![Alt text](<screenshot .png>)
+
+Sample images to test the application
+https://drive.google.com/file/d/1QKZfWqx3sLGz4qos8C44igmN0rjecdH1/view

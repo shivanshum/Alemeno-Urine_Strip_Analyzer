@@ -32,7 +32,7 @@ The extractColors.py file contains the primary logic for color extraction, which
 Setup
 -----
 
-### Bare Metal Setup
+### Local Setup
 
    
 1. Navigate to the backend folder,install the required dependencies and start the webserver on port 8000

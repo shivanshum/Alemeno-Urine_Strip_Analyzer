@@ -34,7 +34,7 @@ Setup
 
 ### Bare Metal Setup
 
-   ```
+   
 1. Navigate to the backend folder,install the required dependencies and start the webserver on port 8000
    
    ```
